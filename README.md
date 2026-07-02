@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ShhlokRastogi/MyLC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShhlokRastogi/MyLC/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ShhlokRastogi/MyLC/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShhlokRastogi/MyLC/tree/master/0907-sum-of-subarray-minimums) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShhlokRastogi/MyLC/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/ShhlokRastogi/MyLC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShhlokRastogi/MyLC/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ShhlokRastogi/MyLC/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShhlokRastogi/MyLC/tree/master/0907-sum-of-subarray-minimums) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShhlokRastogi/MyLC/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/ShhlokRastogi/MyLC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShhlokRastogi/MyLC/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShhlokRastogi/MyLC/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ShhlokRastogi/MyLC/tree/master/2104-sum-of-subarray-ranges) |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/ShhlokRastogi/MyLC/tree/master/0907-sum-of-subarray-minimums) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ShhlokRastogi/MyLC/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
