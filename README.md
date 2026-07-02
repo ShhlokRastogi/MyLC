@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ShhlokRastogi/MyLC/tree/master/0735-asteroid-collision) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShhlokRastogi/MyLC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShhlokRastogi/MyLC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShhlokRastogi/MyLC/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/ShhlokRastogi/MyLC/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShhlokRastogi/MyLC/tree/master/0402-remove-k-digits) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ShhlokRastogi/MyLC/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
