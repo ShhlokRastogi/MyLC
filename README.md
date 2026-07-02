@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/ShhlokRastogi/MyLC/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ShhlokRastogi/MyLC/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShhlokRastogi/MyLC/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShhlokRastogi/MyLC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShhlokRastogi/MyLC/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/ShhlokRastogi/MyLC/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ShhlokRastogi/MyLC/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShhlokRastogi/MyLC/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ShhlokRastogi/MyLC/tree/master/2104-sum-of-subarray-ranges) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShhlokRastogi/MyLC/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/ShhlokRastogi/MyLC/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShhlokRastogi/MyLC/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ShhlokRastogi/MyLC/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
